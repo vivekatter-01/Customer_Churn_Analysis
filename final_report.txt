@@ -1,0 +1,31 @@
+
+CUSTOMER CHURN ANALYSIS REPORT
+==============================
+
+Total Customers: 500
+Churned Customers: 169
+Retained Customers: 331
+Overall Churn Rate: 33.80%
+
+CONTRACT-WISE CHURN
+-------------------
+                Total_Customers  Churned_Customers  Churn_Rate
+Contract                                                      
+Month-to-month              294                123       41.84
+One year                    131                 37       28.24
+Two year                     75                  9       12.00
+
+AVERAGE MONTHLY CHARGES
+-----------------------
+Churn
+No     67.36
+Yes    68.29
+
+KEY FINDINGS
+------------
+1. Month-to-month contracts have the highest churn rate.
+2. Two-year contracts have the lowest churn rate.
+3. Average monthly charges are relatively close for churned
+   and retained customers.
+
+Note: This project uses synthetic data for practice.
